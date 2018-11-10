@@ -7,5 +7,5 @@ The objcts in Makefile includes:
     make compile:
         compile the project and produce bit file
 ####################################################################
-Change the vivado version in setup.tcl according to your EDA.
+Change the vivado version in add_bd.tcl according to your EDA.
 ####################################################################
